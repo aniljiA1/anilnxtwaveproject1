@@ -1,4 +1,4 @@
- Bookstore Application
+## Bookstore Application
 A modern, dynamic e-commerce interface for browsing and managing books. This project was developed to demonstrate proficiency in building single-page applications (SPAs) using React, focusing on state management, dynamic routing, and responsive design.
 
 🚀 Live Demo
@@ -41,12 +41,7 @@ Bash
 git clone https://github.com/aniljiA1/anilnxtwaveproject1.git
 Navigate to the project directory:
 
-Bash
-
-cd anilnxtwaveproject1
 Install dependencies:
-
-Bash
 
 npm install
 Start the development server:
